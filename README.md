@@ -1,10 +1,9 @@
-ASCII Art Splash Screen
+ASCII-bash-splash Screen
 =======================
 Automatically presents ASCII art to you when you open terminal and changes "Randomly"
 
 -----
-
-How to get this working
+How to get this to work
 ===========================
 
 This tutorial is for unix based systems #Sorry Windows. Also if you need this tutorial you probably shouldn't be using terminal.
